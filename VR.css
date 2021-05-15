@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  font-family: "helvetica";
+  color: #d0b949;
+  background-color: #333333;
+}
+
+button {
+    background-color: #333333;
+    border: 2px solid #d0b949;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    font-size: 17px;
+    transition-duration: 0.4s;
+    display: block;
+    
+    margin-top: 20px;
+    margin-left: 40px;
+  }
+
+  button:hover {
+    background-color: white;
+    color: black;
+  }
+
+h4 {
+  color: white;
+}
+
+  
